@@ -1,0 +1,17 @@
+git status                                                                                                      
+git rm --cached testing.py                                                                                      
+git status                                                                                                      
+git add testing.py                                                                                              
+git status                                                                                                      
+git status                                                                                                      
+git commmit -m "added testing file"                                                                             
+git commit -m "added testing file"                                                                              
+git config --global user.email "jineshkumarbehera9899@gmail.com"                                                 
+if config --global user.email "jineshkumarbehera9899@gmail.com"                                                 
+git config --global user.email "jineshkumarbehera9899@gmail.com"                                                
+git config --global user.name "Jinesh"                                                                         
+git commit -m "added testing file"                                                                              
+rm testing.py                                                                                                   
+git status                                                                                                      
+git restore testing.py                                                                                          
+git status 
